@@ -20,11 +20,15 @@ Before running the Todo React App, ensure you have the following installed on yo
 
 1.  Clone the repository to your local machine using the following command:
 
-`git clone https://github.com/gsunil99/todo-fe.git` 
+```bash
+git clone https://github.com/gsunil99/todo-fe.git
+```
 
 2.  Navigate to the project directory:
 
-`cd todo-fe` 
+```bash
+cd todo-fe
+```
 
 3.  Install the project dependencies:
 
@@ -36,14 +40,16 @@ To start the Todo React App, follow these steps:
 
 1.  Run the development server:
 
-`npm start` 
+```bash
+npm start
+```
 
 2.  Open your web browser and visit `http://localhost:3000` to access the application.
 
 ## Folder Structure
 
 The folder structure of the Todo React App is as follows:
-
+```bash
 todo-react-app/
   ├── public/
   │   ├── index.html
@@ -58,7 +64,7 @@ todo-react-app/
   ├── .gitignore
   ├── package.json
   └── README.md
-
+```
 
 -   The `public/` directory contains the index.html file and other static assets.
 -   The `src/` directory contains the main source code of the Todo React App.

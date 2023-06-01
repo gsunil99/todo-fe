@@ -44,8 +44,7 @@ To start the Todo React App, follow these steps:
 
 The folder structure of the Todo React App is as follows:
 
-`todo-react-app/
-
+todo-react-app/
   ├── public/
   │   ├── index.html
   │   └── ...
@@ -58,7 +57,8 @@ The folder structure of the Todo React App is as follows:
   │   └── ...
   ├── .gitignore
   ├── package.json
-  └── README.md`
+  └── README.md
+
 
 -   The `public/` directory contains the index.html file and other static assets.
 -   The `src/` directory contains the main source code of the Todo React App.

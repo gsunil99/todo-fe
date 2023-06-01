@@ -1,4 +1,4 @@
-# Todo React App
+# Todo Front End React App
 
 This is a simple Todo application built using React.js. It allows users to create, manage, and track their tasks or to-do items. This README file provides an overview of the application and instructions on how to set it up and run it on your local machine.
 
@@ -22,13 +22,13 @@ Before running the Todo React App, ensure you have the following installed on yo
 
 shellCopy code
 
-`git clone https://github.com/your-username/todo-react-app.git` 
+`git clone https://github.com/gsunil99/todo-fe.git` 
 
 2.  Navigate to the project directory:
 
 shellCopy code
 
-`cd todo-react-app` 
+`cd todo-fe` 
 
 3.  Install the project dependencies:
 
@@ -98,6 +98,9 @@ The Todo React App is inspired by various Todo applications and built with the h
 
 Special thanks to the developers and contributors of React.js and its vibrant ecosystem for their valuable work.
 
+## Backend
+The backend code for todo is [here](https://github.com/gsunil99/todoApp)
+
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at [gsunil99910@gmail.com](mailto:gsunil99910@gmail.com).

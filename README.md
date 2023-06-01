@@ -79,16 +79,6 @@ If you'd like to contribute to the development of the Todo React App, please fol
 4.  Commit your changes and push them to your forked repository.
 5.  Submit a pull request describing your changes and improvements.
 
-## License
-
-The Todo React App is open source and released under the [MIT License](https://chat.openai.com/LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
-
-## Acknowledgments
-
-The Todo React App is inspired by various Todo applications and built with the help of React.js and related libraries and tools.
-
-Special thanks to the developers and contributors of React.js and its vibrant ecosystem for their valuable work.
-
 ## Backend
 The backend code for todo is [here](https://github.com/gsunil99/todoApp)
 

@@ -20,19 +20,13 @@ Before running the Todo React App, ensure you have the following installed on yo
 
 1.  Clone the repository to your local machine using the following command:
 
-shellCopy code
-
 `git clone https://github.com/gsunil99/todo-fe.git` 
 
 2.  Navigate to the project directory:
 
-shellCopy code
-
 `cd todo-fe` 
 
 3.  Install the project dependencies:
-
-shellCopy code
 
 `npm install` 
 
@@ -41,8 +35,6 @@ shellCopy code
 To start the Todo React App, follow these steps:
 
 1.  Run the development server:
-
-shellCopy code
 
 `npm start` 
 
